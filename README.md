@@ -1,13 +1,9 @@
-# Chess Game
+# Chess
 
-## This project is an interactive chess game that allows a user to send another user a link to start a game. It uses
+### Multiplayer Chess Game built with React and Node.js + Express.
 
-### socket.io-client - for chat functionality
+### Users can play their friends anonymously via link.
 
-### chess.js - for move validation and logic
+### Users are also able to chat with each other during the game via camera + microphone.
 
-### react-konva.js - for rendering the chess board and allow for movement of pieces
-
-### simple-peer - to enable video chat with webRTC
-
-### uuid - to generate a unique id per game session
+### Tech stack: React, webRTC, Node.js, Express, Socket.io
